@@ -147,7 +147,6 @@ CLTV = AOV × Purchase Frequency × Gross Margin
 ## Contact
 **Author**: Akanksha Verma
 - GitHub: [@vakanksha98](https://github.com/vakanksha98)
-- Email: akanksha.v.official@gmail.com
 
 ## License
 MIT License
